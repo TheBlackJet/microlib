@@ -1,0 +1,22 @@
+{
+  "name": "microlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBlackJet/microlib.git"
+  },
+  "author": "John Le <nguyenlt_dev@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBlackJet/microlib/issues"
+  },
+  "homepage": "https://github.com/TheBlackJet/microlib#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
